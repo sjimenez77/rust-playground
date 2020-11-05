@@ -31,3 +31,6 @@
 [submodule "communicator"]
 	path = communicator
 	url = https://github.com/sjimenez77/rust-communicator
+[submodule "restaurant"]
+	path = restaurant
+	url = https://github.com/sjimenez77/rust-restaurant
