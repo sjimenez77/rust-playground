@@ -28,3 +28,6 @@
 [submodule "structs"]
 	path = structs
 	url = https://github.com/sjimenez77/rust-structs
+[submodule "communicator"]
+	path = communicator
+	url = https://github.com/sjimenez77/rust-communicator
