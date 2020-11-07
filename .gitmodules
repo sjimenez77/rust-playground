@@ -34,3 +34,6 @@
 [submodule "restaurant"]
 	path = restaurant
 	url = https://github.com/sjimenez77/rust-restaurant
+[submodule "hash_map"]
+	path = hash_map
+	url = https://github.com/sjimenez77/rust-hash_map
